@@ -1,0 +1,17 @@
+export const trialTexts = [
+  "Tem certeza?",
+  "Absoluta?",
+  "É sério?",
+  "Confirma?",
+  "Está decidida?",
+  "Certeza mesmo?",
+  "É isso?",
+  "Vai Continuar?",
+  "Convicção total?",
+  "Está certa disso?",
+  "Sem dúvidas?",
+  "Posso confiar?",
+  "Bora?",
+  "Está segura?",
+  "Tá bom... Vamos!!!",
+];

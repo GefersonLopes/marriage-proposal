@@ -17,17 +17,16 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  color: #FF7B5A;
+  background: #FFBFAA;
 }
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
+}
+
+.btn-primary {
+  @apply w-[15rem] h-[3rem] px-6 py-3 bg-[#FF7B5A] text-white text-lg text-3xl tracking-widest rounded-full shadow-lg hover:bg-orange-500 transition;
 }
